@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi.+I'm+LeeJoowon+%F0%9F%91%8B;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%82%E7%A7%81%E3%81%AF%E7%A7%BB%E4%BD%8F%E5%93%A1%E3%81%A7%E3%81%99%E3%80%82%F0%9F%91%8B;Hola.+yo+soy+Lee+Joo-won.%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1000&center=true&vCenter=true&width=800&height=60&lines=Hi+I'm+joowon+LEE;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E3%82%A4%E3%83%BB%E3%82%B8%E3%83%A5%E3%82%A6%E3%82%A9%E3%83%B3%E3%81%A7%E3%81%99;Hola%2C+Soy+Joowon+LEE)](https://git.io/typing-svg)
 
 👋 Hi there! I'm JOOWON LEE
 🌐 I enjoy working on Back-end & AI development
@@ -68,6 +68,7 @@
 - **역할:** SOLO
 - **기간:** 2025.03 ~ 진행중
 - **기술스택:**
+
 ![JUPYTER](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
 ![STREAMLIT](https://img.shields.io/badge/Streamlit-FF4B4B?&style=for-the-badge&logo=Streamlit&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -86,7 +87,8 @@
   사용자가 주식 데이터를 조회하고 분석할 수 있도록 다양한 기능을 제공하며, 사용자 친화적인 인터페이스를 구현하였습니다.
 - **역할:** Full-stack 개발 (서버, API, 프론트엔드 템플릿 구성, AI 모델: SVM 모델 구축)
 - **기간:** 2024.07 ~ 2024.12
-- **기술스택**: 
+- **기술스택**:
+ 
 ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![EXPRESS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
@@ -97,6 +99,7 @@
 - **역할:** 백엔드, AI모델(SVM, Decision Tree)
 - **기간:** 2024.05 ~ 2024.06
 - **기술스택**:
+
 ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -111,6 +114,7 @@
 - **역할:** 팀원 (데이터 수집: 크롤링, Streamlit 화면 구축, 데이터 베이스 구축)
 - **기간:** 2024.08 ~ 2024.08
 - **기술스택:**
+
 ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -126,6 +130,7 @@
 - **역할:** Full-Stack(개발), 데이터 분석, AWS 연동
 - **기간:** 2024.09 ~ 2024.09
 - **기술스택:**
+
 ![STREAMLIT](https://img.shields.io/badge/Streamlit-FF4B4B?&style=for-the-badge&logo=Streamlit&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -143,6 +148,7 @@
 - **역할:** 데이터 분석, 프론트엔드,  백엔드와 프론트엔드 연동
 - **기간:** 2024.10 ~ 2024.10
 - **기술스택:**
+
 ![STREAMLIT](https://img.shields.io/badge/Streamlit-FF4B4B?&style=for-the-badge&logo=Streamlit&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![SCKITLEARN](https://camo.githubusercontent.com/09080e19f66c73a55b0f50494d4a828b3f9294e88adfc8fb9c3696c949cf696a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7363696b69746c6561726e2d4637393331453f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465)
@@ -159,6 +165,7 @@
 - **역할:** 팀원 (데이터 분석, OPENAI API 사용, Multilingual-E5-Large: 텍스트 임베딩, PIL)
 - **기간:** 2024.11 ~ 2024.11
 - **기술스택:**
+
 ![STREAMLIT](https://img.shields.io/badge/Streamlit-FF4B4B?&style=for-the-badge&logo=Streamlit&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![PANDAS](https://camo.githubusercontent.com/fdfef023c76c0ae342e6b4c325486a5b43efd800dda7da20db1529f05ba21d25/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732d3135303435383f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465)
@@ -174,6 +181,7 @@
 - **역할:** 팀원 (최종 보고서 작성, 데이터분석, DeepFM 선택)
 - **기간:** 2024.11 ~ 2025.01
 - **기술스택**
+
 ![STREAMLIT](https://img.shields.io/badge/Streamlit-FF4B4B?&style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
