@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1000&center=true&vCenter=true&width=800&height=60&lines=Hi+I'm+joowon+LEE;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E3%82%A4%E3%83%BB%E3%82%B8%E3%83%A5%E3%82%A6%E3%82%A9%E3%83%B3%E3%81%A7%E3%81%99;Hola%2C+Soy+Joowon+LEE)](https://git.io/typing-svg)
 
 👋 Hi there! I'm JOOWON LEE
-🌐 I enjoy working on Back-end & AI development 🇯🇵 🇪🇸 🇰🇷
+🌐 I enjoy working on Back-end & AI development 
 
 - **GitHub:** [Leejoowon123](https://github.com/Leejoowon123)
 - **블로그:** [joowon582.tistory.com](https://joowon582.tistory.com/)
