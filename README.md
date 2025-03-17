@@ -144,7 +144,7 @@
 ### 5. SKNETWORKS-FAMILY-AICAMP / SKN03-4th-3Team (무면허라이더)
 - **프로젝트 소개:**  
 - **링크**
-  ![https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN03-4rd-3Team](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN03-4th-3Team) 
+  https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN03-4th-3Team 
 - **역할:** 팀원 (데이터 분석, OPENAI API 사용, Multilingual-E5-Large: 텍스트 임베딩, PIL)
 - **기간:** 2024.11 ~ 2024.11
 - **기술스택:**
