@@ -172,9 +172,14 @@
 
 ## 📊 GitHub Stats & Language Usage
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Leejoowon123&theme=dark&hide_border=true&border_radius=5&short_numbers=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leejoowon123&theme=blue-green)
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; margin-right: 10px;">
+    [![GitHub Streak](https://streak-stats.demolab.com?user=Leejoowon123&theme=dark&hide_border=true&border_radius=5&short_numbers=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+  </div>
+  <div style="flex: 1; margin-left: 10px;">
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leejoowon123&theme=blue-green)
+  </div>
+</div>
 
 ---
 
