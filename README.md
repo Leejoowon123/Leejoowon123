@@ -28,10 +28,13 @@
 ![TENSORFLOW](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PANDAS](https://camo.githubusercontent.com/fdfef023c76c0ae342e6b4c325486a5b43efd800dda7da20db1529f05ba21d25/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732d3135303435383f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465)
 ![JUPYTER](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
+![SCIPY](https://img.shields.io/badge/scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+
 
 ### 👨‍💻 FRAMEWORK
 ![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![STREAMLIT](https://img.shields.io/badge/Streamlit-FF4B4B?&style=for-the-badge&logo=Streamlit&logoColor=white)
 
 ### ⚡ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -58,19 +61,25 @@
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-
-## 📂 Projects
+## 🔭 I’m currently working on...
 
 ### 0. AI TAX(진행중: 비공개)
 - **프로젝트 소개:**
   AI 기반 세율 최적화 및 경제적 영향 분석 시스템 개발
 - **역할:** SOLO
 - **기간:** 2025.03 ~ 진행중
-- **기술스택:** streamlit, Jupyternotebook
+- **기술스택:**
+![JUPYTER](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
+![STREAMLIT](https://img.shields.io/badge/Streamlit-FF4B4B?&style=for-the-badge&logo=Streamlit&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![SCKITLEARN](https://camo.githubusercontent.com/09080e19f66c73a55b0f50494d4a828b3f9294e88adfc8fb9c3696c949cf696a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7363696b69746c6561726e2d4637393331453f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465)
+![SCIPY](https://img.shields.io/badge/scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
+---
+
+## 📂 Projects
 
 ### 1. TradingSight
 - **프로젝트 소개:**  
@@ -102,11 +111,13 @@
   https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN03-1st-2Team
 - **역할:** 팀원 (데이터 수집: 크롤링, Streamlit 화면 구축, 데이터 베이스 구축)
 - **기간:** 2024.08 ~ 2024.08
-- **기술스택:** streamlit
+- **기술스택:**
 ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![COLAB](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![STREAMLIT](https://img.shields.io/badge/Streamlit-FF4B4B?&style=for-the-badge&logo=Streamlit&logoColor=white)
+![JUPYTER](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
 
 ### 4. SKNETWORKS-FAMILY-AICAMP / SKN03-2rd-3Team (코딩하는 망곰이들)
 - **프로젝트 소개:**  
@@ -115,7 +126,8 @@
   https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN03-2nd-3Team
 - **역할:** Full-Stack(개발), 데이터 분석, AWS 연동
 - **기간:** 2024.09 ~ 2024.09
-- **기술스택:** streamlit
+- **기술스택:**
+![STREAMLIT](https://img.shields.io/badge/Streamlit-FF4B4B?&style=for-the-badge&logo=Streamlit&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -131,7 +143,8 @@
   https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN03-3rd-3Team  
 - **역할:** 데이터 분석, 프론트엔드,  백엔드와 프론트엔드 연동
 - **기간:** 2024.10 ~ 2024.10
-- **기술스택:** streamlit
+- **기술스택:**
+![STREAMLIT](https://img.shields.io/badge/Streamlit-FF4B4B?&style=for-the-badge&logo=Streamlit&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![SCKITLEARN](https://camo.githubusercontent.com/09080e19f66c73a55b0f50494d4a828b3f9294e88adfc8fb9c3696c949cf696a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7363696b69746c6561726e2d4637393331453f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465)
 ![PANDAS](https://camo.githubusercontent.com/fdfef023c76c0ae342e6b4c325486a5b43efd800dda7da20db1529f05ba21d25/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732d3135303435383f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465)
@@ -147,6 +160,7 @@
 - **역할:** 팀원 (데이터 분석, OPENAI API 사용, Multilingual-E5-Large: 텍스트 임베딩, PIL)
 - **기간:** 2024.11 ~ 2024.11
 - **기술스택:**
+![STREAMLIT](https://img.shields.io/badge/Streamlit-FF4B4B?&style=for-the-badge&logo=Streamlit&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![PANDAS](https://camo.githubusercontent.com/fdfef023c76c0ae342e6b4c325486a5b43efd800dda7da20db1529f05ba21d25/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732d3135303435383f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -160,13 +174,15 @@
   https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN03-FINAL-2Team
 - **역할:** 팀원 (최종 보고서 작성, 데이터분석, DeepFM 선택)
 - **기간:** 2024.11 ~ 2025.01
-- **기술스택** streamlit
+- **기술스택**
+![STREAMLIT](https://img.shields.io/badge/Streamlit-FF4B4B?&style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![TENSORFLOW](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JUPYTER](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
 
 ---
 
@@ -176,13 +192,11 @@
 | ------------- | --------- |
 | [![GitHub Streak](https://streak-stats.demolab.com?user=Leejoowon123&theme=dark&hide_border=true&border_radius=5&short_numbers=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leejoowon123&theme=blue-green) |
 
-
 ---
+## ✨ Baekjoon solved rank
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=happy0693)](https://solved.ac/happy0693/)
 
-감사합니다! 앞으로도 다양한 프로젝트와 학습을 통해 꾸준히 성장하는 개발자가 되겠습니다.
-
-
-
+![Thankyou](https://camo.githubusercontent.com/85ec99174320e7b8c5b6a372d769a3d7647c832037027ef2efc8b0fb74cd4556/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d32303026636f6c6f723d6772616469656e7426746578743d5468616e6b253230796f752673656374696f6e3d666f6f74657226726576657273616c3d66616c7365267465787442673d66616c736526666f6e74416c69676e3d353026666f6e7453697a653d343026666f6e74416c69676e593d373026616e696d6174696f6e3d66616465496e2664657363416c69676e3d3530)
 <!--
 **Leejoowon123/Leejoowon123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
