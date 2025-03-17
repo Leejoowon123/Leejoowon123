@@ -1,5 +1,4 @@
-## Hi there 👋
-# 안녕하세요, Leejoowon123 입니다! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi.+I'm+LeeJoowon+%F0%9F%91%8B;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%82%E7%A7%81%E3%81%AF%E7%A7%BB%E4%BD%8F%E5%93%A1%E3%81%A7%E3%81%99%E3%80%82%F0%9F%91%8B;Hola.+yo+soy+Lee+Joo-won.%F0%9F%91%8B)](https://git.io/typing-svg)
 
 저는 AI, 데이터 분석에 관심을 가지고 다양한 프로젝트에 참여하며 개발 역량을 키워가고 있습니다.  
 새로운 기술과 도구를 배우고 적용하는 것을 즐깁니다.
