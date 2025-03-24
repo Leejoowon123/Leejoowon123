@@ -62,6 +62,13 @@
 
 ---
 ## 🔭 I’m currently working on...
+- **알고리즘 공부(feat: 백준)**
+- 링크
+  https://github.com/Leejoowon123/Algorithm-Baekjoon
+- 기술스택
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
