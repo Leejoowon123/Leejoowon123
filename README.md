@@ -6,6 +6,7 @@
 - **GitHub:** [Leejoowon123](https://github.com/Leejoowon123)
 - **블로그:** [joowon582.tistory.com](https://joowon582.tistory.com/)
 - **GMAIL:** joowon582@gmail.com
+- **Linked-In:** [Linked-In](www.linkedin.com/in/Leejoowon1)
 
 ---
 
