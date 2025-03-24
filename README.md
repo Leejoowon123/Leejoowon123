@@ -62,11 +62,15 @@
 ---
 ## 🔭 I’m currently working on...
 
+---
+
+## 📂 Projects
+
 ### 0. AI TAX(진행중: 비공개)
 - **프로젝트 소개:**
   AI 세율 최적화 및 경제적 영향 분석 시스템 개발
 - **역할:** SOLO
-- **기간:** 2025.03 ~ 진행중
+- **기간:** 2025.02 ~ 2025.03
 - **기술스택:**
 
 ![JUPYTER](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
@@ -77,9 +81,6 @@
 ![SCKITLEARN](https://camo.githubusercontent.com/09080e19f66c73a55b0f50494d4a828b3f9294e88adfc8fb9c3696c949cf696a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7363696b69746c6561726e2d4637393331453f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465)
 ![SCIPY](https://img.shields.io/badge/scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
----
-
-## 📂 Projects
 
 ### 1. TradingSight
 - **프로젝트 소개:**  
