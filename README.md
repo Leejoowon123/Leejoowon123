@@ -71,6 +71,8 @@
   AI 세율 최적화 및 경제적 영향 분석 시스템 개발
 - **역할:** SOLO
 - **기간:** 2025.02 ~ 2025.03
+- **링크:**
+  https://github.com/Leejoowon123/2025oss-couscous
 - **기술스택:**
 
 ![JUPYTER](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
