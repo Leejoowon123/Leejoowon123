@@ -207,7 +207,7 @@
 
 | GitHub Streak | Top Langs |
 | ------------- | --------- |
-| [![GitHub Streak](https://streak-stats.demolab.com?user=Leejoowon123&theme=dark&hide_border=true&border_radius=5&short_numbers=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leejoowon123&theme=blue-green) |
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=Leejoowon123)](https://git.io/streak-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leejoowon123&theme=blue-green) |
 
 ---
 ## ✨ Baekjoon solved rank
