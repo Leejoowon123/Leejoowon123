@@ -62,11 +62,13 @@
 ---
 ## 🔭 I’m currently working on...
 ### 전략 분석 자동화 시스템
-- 프로젝트 소개: 전략기획팀 실무 자동화를 위해 개발된 LLM 기반 전략 분석 및 KPI 성과 관리 시스템입니다.
+- **프로젝트 소개**: 전략기획팀 실무 자동화를 위해 개발된 LLM 기반 전략 분석 및 KPI 성과 관리 시스템입니다.
 사용자는 회사명과 전략 방향만 입력하면, 기업의 내외부 환경 분석부터 실행 가능한 KPI 설계, 달성 여부 시각화까지 전략 기획 전 과정을 자동화된 인터페이스를 통해 수행할 수 있습니다.
 
-- 기간: 2025.05.16 ~
-- 링크: https://github.com/Leejoowon123/Streamlit_Project
+- **기간**: 2025.05.16 ~
+- **링크**: https://github.com/Leejoowon123/Streamlit_Project
+- **기술스택:**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![STREAMLIT](https://img.shields.io/badge/Streamlit-FF4B4B?&style=for-the-badge&logo=Streamlit&logoColor=white)
 ---
