@@ -61,21 +61,22 @@
 
 ---
 ## 🔭 I’m currently working on...
-### 전략 분석 자동화 시스템
+---
+
+## 📂 Projects
+### 0. 전략 분석 자동화 시스템
 - **프로젝트 소개**: 전략기획팀 실무 자동화를 위해 개발된 LLM 기반 전략 분석 및 KPI 성과 관리 시스템입니다.
 사용자는 회사명과 전략 방향만 입력하면, 기업의 내외부 환경 분석부터 실행 가능한 KPI 설계, 달성 여부 시각화까지 전략 기획 전 과정을 자동화된 인터페이스를 통해 수행할 수 있습니다.
 
-- **기간**: 2025.05.16 ~
+- **기간**: 2025.05 ~ 2025.06
 - **링크**: https://github.com/Leejoowon123/Streamlit_Project
 - **기술스택:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![STREAMLIT](https://img.shields.io/badge/Streamlit-FF4B4B?&style=for-the-badge&logo=Streamlit&logoColor=white)
----
 
-## 📂 Projects
 
-### 0. AI TAX
+### 1. AI TAX
 - **프로젝트 소개:**
   AI세 최적화 및 경제적 영향 분석 시스템 개발
 - **역할:** SOLO
@@ -93,7 +94,7 @@
 ![SCIPY](https://img.shields.io/badge/scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
 
-### 1. TradingSight
+### 2. TradingSight
 - **프로젝트 소개:**  
   주식 정보 관리 웹 애플리케이션입니다.  
   사용자가 주식 데이터를 조회하고 분석할 수 있도록 다양한 기능을 제공하며, 사용자 친화적인 인터페이스를 구현하였습니다.
@@ -105,7 +106,7 @@
 ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![EXPRESS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
-### 2. QuickDiag
+### 3. QuickDiag
 - **프로젝트 소개:**  
   질병에 따른 병명 예측을 위한 AI Doctor 웹 프로젝트입니다.
 - **역할:** 백엔드, AI모델(SVM, Decision Tree)
@@ -118,7 +119,7 @@
 ![FLASK](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 3. SKNETWORKS-FAMILY-AICAMP / SKN03-1st-2Team
+### 4. SKNETWORKS-FAMILY-AICAMP / SKN03-1st-2Team
 - **프로젝트 소개:**  
   카카오맵, 원내비, Atlan의 전국 자동차 등록 현황 및 기업 FAQ 조회 시스템을 구축
 - **링크:**
@@ -134,7 +135,7 @@
 ![STREAMLIT](https://img.shields.io/badge/Streamlit-FF4B4B?&style=for-the-badge&logo=Streamlit&logoColor=white)
 ![JUPYTER](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
 
-### 4. SKNETWORKS-FAMILY-AICAMP / SKN03-2rd-3Team (코딩하는 망곰이들)
+### 5. SKNETWORKS-FAMILY-AICAMP / SKN03-2rd-3Team (코딩하는 망곰이들)
 - **프로젝트 소개:**  
   한국 엑티브 시니어를 위한 망곰이 지도 구축
 - **링크:**
@@ -152,7 +153,7 @@
 ![SQLLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
-### 4. SKNETWORKS-FAMILY-AICAMP / SKN03-3rd-3Team (5by5)
+### 6. SKNETWORKS-FAMILY-AICAMP / SKN03-3rd-3Team (5by5)
 - **프로젝트 소개:**
   Telecom Customer Churn Prediction 데이터를 활용하여 이탈 관련 데이터 분석 
 - **링크**
@@ -170,7 +171,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 5. SKNETWORKS-FAMILY-AICAMP / SKN03-4th-3Team (무면허라이더)
+### 7. SKNETWORKS-FAMILY-AICAMP / SKN03-4th-3Team (무면허라이더)
 - **프로젝트 소개:**  
 - **링크**
   https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN03-4th-3Team 
@@ -185,7 +186,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 6. SKNETWORKS-FAMILY-AICAMP / SKN03-FINAL-2Team
+### . SKNETWORKS-FAMILY-AICAMP / SKN03-FINAL-2Team
 - **프로젝트 소개:**  
   DeepFM 모델을 사용하여 유저 특성(배우) - 아이템 특성 (장르) 간의 시스템 구축
 - **링크:**
