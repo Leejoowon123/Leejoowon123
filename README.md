@@ -63,16 +63,16 @@
 - **프로젝트 소개** : JLPT(일본어능력시험)를 준비할 수 있도록 설계된 웹 기반 학습 도구입니다. 복습, 단어, 문법, 독해, 청해, '오늘의 10분 학습 큐'를 중심으로, 단계별 암기 및 실시간 회화 연습까지 지원
 - **링크** : https://github.com/Leejoowon123/jlpt-10min
 - **기술스택:**
-Frontend Core
+- Frontend Core
   - **Language:** Vanilla JavaScript (ES Modules)
   - **Markup & Styling:** HTML5, CSS3 (No Framework)
-Web APIs & Cloud
+- Web APIs & Cloud
   - **Web APIs:** Web Speech API (내장 TTS/STT 활용한 청해 및 회화 평가)
   - **Storage:** Web Storage API (`localStorage` 기반 로컬 데이터 관리)
   - **Backend (Serverless):** Firebase (Spark Plan)
     - `Authentication`: 이메일/비밀번호 기반 회원가입 및 로그인
     - `Realtime Database`: 기기 간 진도율(Progress) 동기화 및 실시간 접속자 수(Presence) 추적
-QA & DevOps
+- QA & DevOps
   - **Deployment:** GitHub Pages (정적 웹 호스팅)
   - **CI/CD:** GitHub Actions (main 브랜치 PR/Push 시 자동 QA 파이프라인 구동)
   - **Testing:** jsdom 기반 QA 시스템 (Smoke Test 133개 체크 + 126개 사용자 시나리오 테스트 완벽 통과)
