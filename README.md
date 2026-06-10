@@ -23,9 +23,7 @@
 ![GRADLE](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 
 ### 🤖 Artificial Intelligence
-![SCKITLEARN](https://camo.githubusercontent.com/09080e19f66c73a55b0f50494d4a828b3f9294e88adfc8fb9c3696c949cf696a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7363696b69746c6561726e2d4637393331453f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465)
 ![TENSORFLOW](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PANDAS](https://camo.githubusercontent.com/fdfef023c76c0ae342e6b4c325486a5b43efd800dda7da20db1529f05ba21d25/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732d3135303435383f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465)
 ![JUPYTER](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
 ![SCIPY](https://img.shields.io/badge/scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
