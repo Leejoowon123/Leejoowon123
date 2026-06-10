@@ -76,6 +76,10 @@
   - **Deployment:** GitHub Pages (정적 웹 호스팅)
   - **CI/CD:** GitHub Actions (main 브랜치 PR/Push 시 자동 QA 파이프라인 구동)
   - **Testing:** jsdom 기반 QA 시스템 (Smoke Test 133개 체크 + 126개 사용자 시나리오 테스트 완벽 통과)
+### 아키텍처 특징 (Architecture Highlights)
+- **Cost-Effective & Serverless:** GitHub Pages와 Firebase 무료 플랜 조합으로 **서버 유지 비용 0원**
+- **Robust Stability:** `jsdom` 환경에서 250개 이상의 테스트 케이스를 통과해야만 배포되는 CI/CD 환경 구축
+- **Privacy-First:** 사용자의 개인 학습 기록은 기본적으로 브라우저 로컬에 보관, 원할 때만 클라우드 계정에 연동
 
 ---
 
