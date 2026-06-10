@@ -59,13 +59,25 @@
 
 ---
 ## 🔭 I’m currently working on...
-### 언어 학습 프로젝트
-- **프로젝트 소개** : 영어, 스페인어, 일본어 공부를 위한 플랫폼
-  
+### JLPT 10분 학습 큐 (JLPT-10min)
+- **프로젝트 소개** : JLPT(일본어능력시험)를 준비할 수 있도록 설계된 웹 기반 학습 도구입니다. 복습, 단어, 문법, 독해, 청해, '오늘의 10분 학습 큐'를 중심으로, 단계별 암기 및 실시간 회화 연습까지 지원
+- **링크** : https://github.com/Leejoowon123/jlpt-10min
+- **기술스택:**
+  - **Language:** Vanilla JavaScript (ES Modules)
+  - **Markup & Styling:** HTML5, CSS3 (No Framework)
+  - **Web APIs:** Web Speech API (내장 TTS/STT 활용한 청해 및 회화 평가)
+  - **Storage:** Web Storage API (`localStorage` 기반 로컬 데이터 관리)
+  - **Backend (Serverless):** Firebase (Spark Plan)
+    - `Authentication`: 이메일/비밀번호 기반 회원가입 및 로그인
+    - `Realtime Database`: 기기 간 진도율(Progress) 동기화 및 실시간 접속자 수(Presence) 추적
+  - **Deployment:** GitHub Pages (정적 웹 호스팅)
+  - **CI/CD:** GitHub Actions (main 브랜치 PR/Push 시 자동 QA 파이프라인 구동)
+  - **Testing:** jsdom 기반 QA 시스템 (Smoke Test 133개 체크 + 126개 사용자 시나리오 테스트 완벽 통과)
+
 ---
 
 ## 📂 Projects
-### 0. 전략 분석 자동화 시스템
+### 2. 전략 분석 자동화 시스템
 - **프로젝트 소개**: 전략기획팀 실무 자동화를 위해 개발된 LLM 기반 전략 분석 및 KPI 성과 관리 시스템입니다.
 사용자는 회사명과 전략 방향만 입력하면, 기업의 내외부 환경 분석부터 실행 가능한 KPI 설계, 달성 여부 시각화까지 전략 기획 전 과정을 자동화된 인터페이스를 통해 수행할 수 있습니다.
 
@@ -77,9 +89,9 @@
 ![STREAMLIT](https://img.shields.io/badge/Streamlit-FF4B4B?&style=for-the-badge&logo=Streamlit&logoColor=white)
 
 
-### 1. AI TAX
+### 3. AI TAX
 - **프로젝트 소개:**
-  AI세 최적화 및 경제적 영향 분석 시스템 개발
+  [졸업논문] : AI세금 최적화 및 경제적 영향 분석 시스템 개발
 - **역할:** SOLO
 - **기간:** 2025.02 ~ 2025.03
 - **링크:**
@@ -94,49 +106,7 @@
 ![SCKITLEARN](https://camo.githubusercontent.com/09080e19f66c73a55b0f50494d4a828b3f9294e88adfc8fb9c3696c949cf696a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7363696b69746c6561726e2d4637393331453f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465)
 ![SCIPY](https://img.shields.io/badge/scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
-
-### 2. TradingSight
-- **프로젝트 소개:**  
-  주식 정보 관리 웹 애플리케이션입니다.  
-  사용자가 주식 데이터를 조회하고 분석할 수 있도록 다양한 기능을 제공하며, 사용자 친화적인 인터페이스를 구현하였습니다.
-- **역할:** Full-stack 개발 (서버, API, 프론트엔드 템플릿 구성, AI 모델: SVM 모델 구축)
-- **기간:** 2024.07 ~ 2024.12
-- **기술스택**:
- 
-![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![EXPRESS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-
-### 3. QuickDiag
-- **프로젝트 소개:**  
-  질병에 따른 병명 예측을 위한 AI Doctor 웹 프로젝트입니다.
-- **역할:** 백엔드, AI모델(SVM, Decision Tree)
-- **기간:** 2024.05 ~ 2024.06
-- **기술스택**:
-
-![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![FLASK](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 4. SKNETWORKS-FAMILY-AICAMP / SKN03-1st-2Team
-- **프로젝트 소개:**  
-  카카오맵, 원내비, Atlan의 전국 자동차 등록 현황 및 기업 FAQ 조회 시스템을 구축
-- **링크:**
-  https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN03-1st-2Team
-- **역할:** 팀원 (데이터 수집: 크롤링, Streamlit 화면 구축, 데이터 베이스 구축)
-- **기간:** 2024.08 ~ 2024.08
-- **기술스택:**
-
-![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![COLAB](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-![STREAMLIT](https://img.shields.io/badge/Streamlit-FF4B4B?&style=for-the-badge&logo=Streamlit&logoColor=white)
-![JUPYTER](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
-
-### 5. SKNETWORKS-FAMILY-AICAMP / SKN03-2rd-3Team (코딩하는 망곰이들)
+### 4. SKNETWORKS-FAMILY-AICAMP / SKN03-2rd-3Team (코딩하는 망곰이들)
 - **프로젝트 소개:**  
   한국 엑티브 시니어를 위한 망곰이 지도 구축
 - **링크:**
@@ -153,41 +123,7 @@
 ![SCKITLEARN](https://camo.githubusercontent.com/09080e19f66c73a55b0f50494d4a828b3f9294e88adfc8fb9c3696c949cf696a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7363696b69746c6561726e2d4637393331453f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465)
 ![SQLLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-
-### 6. SKNETWORKS-FAMILY-AICAMP / SKN03-3rd-3Team (5by5)
-- **프로젝트 소개:**
-  Telecom Customer Churn Prediction 데이터를 활용하여 이탈 관련 데이터 분석 
-- **링크**
-  https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN03-3rd-3Team  
-- **역할:** 데이터 분석, 프론트엔드,  백엔드와 프론트엔드 연동
-- **기간:** 2024.10 ~ 2024.10
-- **기술스택:**
-
-![STREAMLIT](https://img.shields.io/badge/Streamlit-FF4B4B?&style=for-the-badge&logo=Streamlit&logoColor=white)
-![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![SCKITLEARN](https://camo.githubusercontent.com/09080e19f66c73a55b0f50494d4a828b3f9294e88adfc8fb9c3696c949cf696a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7363696b69746c6561726e2d4637393331453f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465)
-![PANDAS](https://camo.githubusercontent.com/fdfef023c76c0ae342e6b4c325486a5b43efd800dda7da20db1529f05ba21d25/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732d3135303435383f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465)
-![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 7. SKNETWORKS-FAMILY-AICAMP / SKN03-4th-3Team (무면허라이더)
-- **프로젝트 소개:**  
-- **링크**
-  https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN03-4th-3Team 
-- **역할:** 팀원 (데이터 분석, OPENAI API 사용, Multilingual-E5-Large: 텍스트 임베딩, PIL)
-- **기간:** 2024.11 ~ 2024.11
-- **기술스택:**
-
-![STREAMLIT](https://img.shields.io/badge/Streamlit-FF4B4B?&style=for-the-badge&logo=Streamlit&logoColor=white)
-![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![PANDAS](https://camo.githubusercontent.com/fdfef023c76c0ae342e6b4c325486a5b43efd800dda7da20db1529f05ba21d25/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732d3135303435383f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### . SKNETWORKS-FAMILY-AICAMP / SKN03-FINAL-2Team
+### 5. SKNETWORKS-FAMILY-AICAMP / SKN03-FINAL-2Team
 - **프로젝트 소개:**  
   DeepFM 모델을 사용하여 유저 특성(배우) - 아이템 특성 (장르) 간의 시스템 구축
 - **링크:**
